@@ -7,7 +7,7 @@
 
 import math
 import time
-from datetime import date
+import date_util as dateu
 import scipy as sp
 
 def csnd(dval):
